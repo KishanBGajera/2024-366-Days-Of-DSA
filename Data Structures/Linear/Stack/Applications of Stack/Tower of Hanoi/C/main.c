@@ -27,7 +27,7 @@ Tower* getTower(char name, int size){
 
 void printTowers(Tower* A, Tower* B, Tower* C){
     int maxTop = max(A->stack->top, B->stack->top, C->stack->top);
-    maxTop++; // since, `stack->top` represents the top element's index
+    maxTop++; // since, `stack->top` represents the top element's index, and we want total elems
     int counter = maxTop;
     printf("\nTowers:\n");
     for (int i = maxTop; i > 0; i--)
