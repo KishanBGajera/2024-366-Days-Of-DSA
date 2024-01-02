@@ -13,7 +13,7 @@ typedef struct Stack Stack;
 // Tower = Stack + name
 struct Tower {
     Stack* stack;
-    char name; // One character names, i.e. A, B, and C
+    char name; // One character names, i.e., A, B, or C
 };
 
 typedef struct Tower Tower;
