@@ -14,7 +14,7 @@
 2. Move a Disk from $A$ to $C$
 3. Move $n - 1$ Disks from $B$ to $C$ using $A$
  
-> _learnt from:_ [YouTube/Abdul Bari/Algorithms](https://www.youtube.com/watch?v=q6RicK1FCUs) _and_ [YouTube/Reducible](https://www.youtube.com/watch?v=rf6uf3jNjbo)
+> _learnt from (the GOAT's):_ [YouTube/Abdul Bari/Algorithms](https://www.youtube.com/watch?v=q6RicK1FCUs) _and_ [YouTube/Reducible](https://www.youtube.com/watch?v=rf6uf3jNjbo)
 
 ## Solution Explanation
 > _(following_ `main.c` _located in_ `./C/`_)_
