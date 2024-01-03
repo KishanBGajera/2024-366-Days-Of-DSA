@@ -10,7 +10,7 @@ class Tower:
     def move_to_tower(self, destination) -> None:
         disk = self.stack.pop()
         destination.stack.push(disk)
-        print(f"Disk {disk} moved from Tower {self.name} to Tower {destination.name}")
+        print(f"\nDisk {disk} moved from Tower {self.name} to Tower {destination.name}\n")
 
 def print_towers(A: Tower, B: Tower, C: Tower) -> None:
     max_top = max(A.stack.top, B.stack.top, C.stack.top)
@@ -40,7 +40,7 @@ def print_towers(A: Tower, B: Tower, C: Tower) -> None:
         print()
     
     print("_____ _____ _____")
-    print(f"| {A.name} | | {B.name} | | {C.name} |")
+    print(f"|_{A.name}_| |_{B.name}_| |_{C.name}_|")
 
 def tower_of_hanoi(n, A, B, C):
     if n > 0:

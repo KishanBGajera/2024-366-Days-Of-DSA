@@ -58,7 +58,7 @@ void printTowers(Tower* A, Tower* B, Tower* C){
     }
     
     printf("_____ _____ _____\n");
-    printf("| %c | | %c | | %c |\n", A->name, B->name, C->name); // more about it in the README.md
+    printf("|_%c_| |_%c_| |_%c_|\n", A->name, B->name, C->name); // more about it in the README.md
 }
 
 void moveToTower(Tower* source, Tower* destination){
