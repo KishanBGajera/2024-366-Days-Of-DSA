@@ -8,9 +8,9 @@ def linear_search(arr: list, target: int) -> int:
         if elem == target:
             return count
 
-global_count = 0  # Use a different global variable name
+global_count = 0
 def binary_search(arr: list, target: int, l: int, h: int) -> int:
-    global global_count  # Declare count as a global variable
+    global global_count
     global_count += 1
     if l <= h:
         m = (l + h) // 2
@@ -39,7 +39,7 @@ for i in arr:
     idx1 = linear_search(arr, i)
     lis.append(idx1)
 
-    global_count = 0  # Reset global_count for each binary search
+    global_count = 0
     idx2 = binary_search(arr, i, 0, len(arr))
     bis.append(idx2)
 
