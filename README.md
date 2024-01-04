@@ -1,5 +1,5 @@
 # 2024-366-Days-Of-DSA
-Daily DSA in C (&amp; Python) and LeetCode problems\
+Daily DSA in C (&amp; Python) and LeetCode problems
 
 ### Main Recources:
 - for C,
@@ -24,4 +24,8 @@ Daily DSA in C (&amp; Python) and LeetCode problems\
     - Implemented recursive approach solution in C & Python using [`stack.h`](Data%20Structures/Linear/Stack/C/stack.h) and [`stack.py`](Data%20Structures/Linear/Stack/Python/stack.py)
 - 03/01/2024:
     - Learned and implemented Linked List in C & Python.
-    - Linked List explanation to be added
+    - Linked List explanation to be added.
+- 04/01/2024:
+    - Implemented Linear Search in C & Python, and posted its detailed analysis
+    - Implemented Binary Search in C & Python, and posted its detailed analysis
+    - Posted ["Binary Search vs. Linear Search Analysis"](<Algorithm/Searching/Binary Search vs. Linear Search Analysis/README.md>)
