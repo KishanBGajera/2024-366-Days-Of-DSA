@@ -24,9 +24,9 @@ Hmm, luck has started to vanish!
 and if we keep moving forward
 
 - with 50 elements:\
-![Alt text](lis_bin_50.png)\
+![Alt text](lis_bin_50.png)
 
 - and with 100 elements:\
-![Alt text](lis_bin_100.png)\
+![Alt text](lis_bin_100.png)
 
-- What it basically says, is the amount of steps (iterations/function calls) the algorithm has to takes grows linearly (in Linear Search) and Logarithmically (in Binary Search), which is just huge of the difference,depicted in the scatter plots above.
+- What it basically says, is the amount of steps (iterations/function calls) the algorithm has to take grows linearly (in Linear Search) and Logarithmically (in Binary Search), which is just huge of the difference,depicted in the scatter plots above.
