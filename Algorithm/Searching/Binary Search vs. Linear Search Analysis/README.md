@@ -1,13 +1,13 @@
 # Binary Search vs. Linear Search
 
 ## General Differences
-|                 |  Linear Search  |  Binary Search |
-| --------------- | :-------------: | :-------------: |
-|**Time Complexity**|                 |                 |
-| Best            |      $O(1)$     |      $O(1)$     |
-| Average         |      $O(n)$     |   $O(log(n))$   |
-| Worst           |      $O(n)$     |   $O(log(n))$   |
-|**Space Complexity**|                 |                 |
+|                     |  Linear Search  |  Binary Search  |
+| ------------------- | :-------------: | :-------------: |
+|**Time Complexity**  |                 |                 |
+| Best                |      $O(1)$     |      $O(1)$     |
+| Average             |      $O(n)$     |   $O(log(n))$   |
+| Worst               |      $O(n)$     |   $O(log(n))$   |
+|**Space Complexity** |                 |                 |
 | Best, Average, Worse|      $O(1)$     |      $O(1)$     |
 
 ## But How Much It?
