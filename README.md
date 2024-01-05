@@ -17,15 +17,19 @@ Daily DSA in C (&amp; Python) and LeetCode problems
 
 ## Well, so far 👇
 - 01/01/2024:
-    - Implemented Stack in C & Python.
+    - Implemented [Stack](<Data Structures/Linear/Stack>) in C & Python.
     - Added Stack Explanation.
 - 02/01/2024:
     - Learned about the solution of "Tower of Hanoi" problem.
-    - Implemented recursive approach solution in C & Python using [`stack.h`](Data%20Structures/Linear/Stack/C/stack.h) and [`stack.py`](Data%20Structures/Linear/Stack/Python/stack.py)
+    - Implemented recursive approach [solution](<Data Structures/Linear/Stack/Applications of Stack/Tower of Hanoi>) in C & Python using [`stack.h`](Data%20Structures/Linear/Stack/C/stack.h) and [`stack.py`](Data%20Structures/Linear/Stack/Python/stack.py)
 - 03/01/2024:
-    - Learned and implemented Linked List in C & Python.
+    - Learned and implemented [Singly Linked List](<Data Structures/Linear/Linked List/Singly Linked List>) in C & Python.
     - Linked List explanation to be added.
 - 04/01/2024:
-    - Implemented Linear Search in C & Python, and posted its detailed analysis
-    - Implemented Binary Search in C & Python, and posted its detailed analysis
+    - Implemented [Linear Search](<Algorithm/Searching/Linear Search>) in C & Python, and posted its [detailed analysis](<Algorithm/Searching/Linear Search/Linear Search Analysis.md>)
+    - Implemented [Binary Search](<Algorithm/Searching/Binary Search>) in C & Python, and posted its [detailed analysis](<Algorithm/Searching/Binary Search/Binary Search Analysis.md>)
     - Posted ["Binary Search vs. Linear Search Analysis"](<Algorithm/Searching/Binary Search vs. Linear Search Analysis/README.md>)
+- 05/01/2024:
+    - Added [Questions](Questions) to the challenge
+    - Implemented [Bubble Sort](<Algorithm/Sorting/Bubble Sort>) and posted its [notes](<Algorithm/Sorting/Bubble Sort/notes.md>).
+    - Implemented [Selection Sort](<Algorithm/Sorting/Selection Sort>) and posted its [notes](<Algorithm/Sorting/Selection Sort/notes.md>).
