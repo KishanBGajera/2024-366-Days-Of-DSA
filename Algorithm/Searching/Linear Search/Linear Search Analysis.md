@@ -1,6 +1,6 @@
 # Linear Search
 > This MarkDown is written as per my understanding of the algorithm.
-- Linear Search is highly intuitive (and impractical) approach of searching an element from an array.
+- Linear Search is highly intuitive, naive (and impractical) approach of searching an element from an array.
 
 ## Algorithm
 
@@ -28,5 +28,5 @@ def LinearSearch(arr, size, target):
 
 ## Remarks
 - Not a practical way to search through large datasets.
-- Only feasible for small dataset/array. (if compared with [Binary Search](), better only when `n` < 10, _which is not practical at all._)
+- Only feasible for small dataset/array. (if compared with [Binary Search](<../Binary Search>), better only when `n` < 10, _which is not practical at all._)
 > _check out:_ [Binary Search vs. Linear Search Analysis](<../Binary Search vs. Linear Search Analysis/README.md>)
