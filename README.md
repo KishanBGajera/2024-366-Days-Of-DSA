@@ -33,3 +33,11 @@ Daily DSA in C (&amp; Python) and LeetCode problems
     - Added [Questions](Questions) to the challenge
     - Implemented [Bubble Sort](<Algorithm/Sorting/Bubble Sort>) and posted its [notes](<Algorithm/Sorting/Bubble Sort/notes.md>).
     - Implemented [Selection Sort](<Algorithm/Sorting/Selection Sort>) and posted its [notes](<Algorithm/Sorting/Selection Sort/notes.md>).
+- 06/01/2024:
+    - Added Doubly Linked List,
+        - in [C](<Data Structures/Linear/Linked List/Doubly Linked List/C>)
+        - in [Python](<Data Structures/Linear/Linked List/Doubly Linked List/Python>)
+    - Added explanations
+        - [linked list](<Data Structures/Linear/Linked List/notes.md>)
+        - [singly linked list](<Data Structures/Linear/Linked List/Singly Linked List/notes.md>)
+        - [doubly linked list](<Data Structures/Linear/Linked List/Doubly Linked List/notes.md>)
