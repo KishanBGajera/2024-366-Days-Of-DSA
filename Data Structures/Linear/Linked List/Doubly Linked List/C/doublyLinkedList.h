@@ -38,20 +38,29 @@ DoublyLinkedList* getDoublyLinkedList(){
     return doublyLinkedList;
 }
 
-/**
- * Methods added:
- * bool isEmpty(...)
- * void appendToList(...)
- * void insertAtBeginning(...)
- * void insertAt(...)
- * int popFromList(...)
- * void removeNode(...)
- * int searchNode(...)
- * Node* getNodeAt(...)
- * void printList(...)
- * void deleteList(...)
-*/
+// DLL functions' prototypes
+bool isEmpty(DoublyLinkedList* doublyLinkedList);
 
+void appendToList(DoublyLinkedList* doublyLinkedList, Node* node);
+void insertAtBeginning(DoublyLinkedList* doublyLinkedList, Node* node);
+void insertAt(int index, DoublyLinkedList *doublyLinkedList, Node* node);
+
+int popFromList(DoublyLinkedList* doublyLinkedList);
+void removeNode(DoublyLinkedList *doublyLinkedList, int data);
+int removeNodeAt(DoublyLinkedList* doublyLinkedList, int index);
+
+int searchNode(DoublyLinkedList *doublyLinkedList, int target);
+Node* getNodeAt(DoublyLinkedList *doublyLinkedList, int index);
+
+void reverseList(DoublyLinkedList* DLL);
+void sortList(DoublyLinkedList* DLL);
+
+void mergeLists(DoublyLinkedList*, DoublyLinkedList*);
+
+void printList(DoublyLinkedList* doublyLinkedList);
+void deleteList(DoublyLinkedList* doublyLinkedList);
+
+// definitions
 void nodeAdded(DoublyLinkedList* doublyLinkedList, Node* node){
     printf("Node(%d) added to DLL\n", node->data);
     doublyLinkedList->totalNodes++;
@@ -214,13 +223,5 @@ void deleteList(DoublyLinkedList* doublyLinkedList){
     free(doublyLinkedList);
     doublyLinkedList->head = NULL;
 }
-
-/**
- * To-be-added
- * reverseList: Reverse the order of nodes in the linked list.
- * sortList: Sort the linked list using a sorting algorithm.
- * removeNodeAtPosition: Remove a node at a specific position in the linked list.
- * mergeLists: Merge two doubly linked lists into one.
-*/
 
 #endif
