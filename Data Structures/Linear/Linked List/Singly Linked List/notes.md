@@ -1,6 +1,6 @@
 # Singly Linked List
 
-- Singly Linked List is a linked list which has `data` and `next` data member, which means it only points to the next `Node`.
+- Singly Linked List is a [Linked List](../notes.md) which has `data` and `next` data member, which means it only points to the next `Node`.
 
 ### Node
 
