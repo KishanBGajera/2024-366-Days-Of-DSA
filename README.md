@@ -41,3 +41,10 @@ Daily DSA in C (&amp; Python) and LeetCode problems
         - [linked list](<Data Structures/Linear/Linked List/notes.md>)
         - [singly linked list](<Data Structures/Linear/Linked List/Singly Linked List/notes.md>)
         - [doubly linked list](<Data Structures/Linear/Linked List/Doubly Linked List/notes.md>)
+- 07/01/2024:
+    - Added [Programming Concepts/C Preprocessors](<Programming Concepts/C Preprocessors>)
+    - Updated [Doubly Linked List](<Data Structures/Linear/Linked List/Doubly Linked List/notes.md>)
+    - Added Singly Circular Linked List
+        - in [C](<Data Structures/Linear/Linked List/Singly Circular Linked List/C/>)
+        - in [Python](<Data Structures/Linear/Linked List/Singly Circular Linked List/Python/>)
+        - [notes](<Data Structures/Linear/Linked List/Singly Circular Linked List/notes.md>)
