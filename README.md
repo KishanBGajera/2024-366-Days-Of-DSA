@@ -48,3 +48,8 @@ Daily DSA in C (&amp; Python) and LeetCode problems
         - in [C](<Data Structures/Linear/Linked List/Singly Circular Linked List/C/>)
         - in [Python](<Data Structures/Linear/Linked List/Singly Circular Linked List/Python/>)
         - [notes](<Data Structures/Linear/Linked List/Singly Circular Linked List/notes.md>)
+- 08/01/2024:
+    - Added [Insertion Sort](<Algorithm/Sorting/Insertion Sort>)
+    - Added [Merge Sort](<Algorithm/Sorting/Merge Sort>)
+    - Added [Quick Sort](<Algorithm/Sorting/Quick Sort>)
+    - notes to be added.
