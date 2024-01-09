@@ -53,3 +53,7 @@ Daily DSA in C (&amp; Python) and LeetCode problems
     - Added [Merge Sort](<Algorithm/Sorting/Merge Sort>)
     - Added [Quick Sort](<Algorithm/Sorting/Quick Sort>)
     - notes to be added.
+- 09/01/2024:
+    - Added [Cyclic Sort](<Algorithm/Sorting/Cyclic Sort>)
+    - Added [Shell Sort](<Algorithm/Sorting/Shell Sort>)
+    - notes to be added.
