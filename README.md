@@ -57,3 +57,7 @@ Daily DSA in C (&amp; Python) and LeetCode problems
     - Added [Cyclic Sort](<Algorithm/Sorting/Cyclic Sort>)
     - Added [Shell Sort](<Algorithm/Sorting/Shell Sort>)
     - notes to be added.
+- 10/01/2024:
+    - Implemented Min Stack
+        - in [C](<Data Structures/Linear/Stack/Applications of Stack/Min Stack/C>)
+        - in [Python](<Data Structures/Linear/Stack/Applications of Stack/Min Stack/Python>)
