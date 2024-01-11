@@ -61,3 +61,7 @@ Daily DSA in C (&amp; Python) and LeetCode problems
     - Implemented Min Stack
         - in [C](<Data Structures/Linear/Stack/Applications of Stack/Min Stack/C>)
         - in [Python](<Data Structures/Linear/Stack/Applications of Stack/Min Stack/Python>)
+- 11/01/2024:
+    - Implemented Infix to Postfix Notation Conversion Algorithm:
+        - in [C](<Data Structures/Linear/Stack/Applications of Stack/Expression Conversion & Evaluation/Infix to Postfix/C>)
+        - in [Python](<Data Structures/Linear/Stack/Applications of Stack/Expression Conversion & Evaluation/Infix to Postfix/Python>)
