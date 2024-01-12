@@ -65,3 +65,8 @@ Daily DSA in C (&amp; Python) and LeetCode problems
     - Implemented Infix to Postfix Notation Conversion Algorithm:
         - in [C](<Data Structures/Linear/Stack/Applications of Stack/Expression Conversion & Evaluation/Infix to Postfix/C>)
         - in [Python](<Data Structures/Linear/Stack/Applications of Stack/Expression Conversion & Evaluation/Infix to Postfix/Python>)
+- 12/01/2024:
+    - Added LeetCode Problems
+        - LeetCode 75
+            - 1.1 [Merge Strings Alternatively](<LeetCode Problems/LeetCode 75/1. Array String/1.1 Merge Strings Alternately/solution.py>) (LeetCode [#1768](https://leetcode.com/problems/merge-strings-alternately/description/))
+            - 2.1 [Move Zeroes](<LeetCode Problems/LeetCode 75/2. Two Pointers/2.1 Move Zeroes/solution.py>) (LeetCode [#283](https://leetcode.com/problems/move-zeroes/description/))
