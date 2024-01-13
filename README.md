@@ -70,3 +70,8 @@ Daily DSA in C (&amp; Python) and LeetCode problems
         - LeetCode 75
             - 1.1 [Merge Strings Alternatively](<LeetCode Problems/LeetCode 75/1. Array String/1.1 Merge Strings Alternately/solution.py>) (LeetCode [#1768](https://leetcode.com/problems/merge-strings-alternately/description/))
             - 2.1 [Move Zeroes](<LeetCode Problems/LeetCode 75/2. Two Pointers/2.1 Move Zeroes/solution.py>) (LeetCode [#283](https://leetcode.com/problems/move-zeroes/description/))
+- 13/01/2024:
+    - Added NeetCode Roadmap:
+        - 1.1 Contains Duplicate ([solution](<LeetCode Problems/NeetCode Roadmap/Array & Hashing/1.1 Contains Duplicate>)) ([problem](https://leetcode.com/problems/contains-duplicate/description/))
+        - 1.2 Valid Anagram ([solution](<LeetCode Problems/NeetCode Roadmap/Array & Hashing/1.2 Valid Anagram>)) ([problem](https://leetcode.com/problems/valid-anagram/description/))
+        - 1.3 Two Sum ([solution](<LeetCode Problems/NeetCode Roadmap/Array & Hashing/1.3 Two Sum>)) ([problem](https://leetcode.com/problems/two-sum/description/))
