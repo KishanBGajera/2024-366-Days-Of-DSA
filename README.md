@@ -2,17 +2,25 @@
 Daily DSA in C (&amp; Python) and LeetCode problems
 
 ### Main Recources:
-- for C,
-    - [YT/Neso Academy/C programming & Data Structures](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM) (**GOAT**)
-    - [YT/Abdul Bari/Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) (**GOAT**)
-    - [GeeksForGeeks/C](https://www.geeksforgeeks.org/c-programming-language/)
-    - [devdocs.io/c/](https://devdocs.io/c/) (for references)
+<details>
+    <summary>for C</summary>
+    <ul>
+        <li> <a href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM">YT/Neso Academy/C programming & Data Structures</a> (<b>GOAT</b>)
+        <li> <a href="https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O">YT/Abdul Bari/Algorithms</a> (<b>GOAT</b>)
+        <li> <a href="https://www.geeksforgeeks.org/c-programming-language/">GeeksForGeeks/C</a>
+        <li> <a href="https://devdocs.io/c/">devdocs.io/c/</a> (for references)
+    </ul>
+</details>
 
-- for Python,
-    - [Python's Official Documentation](https://docs.python.org/3/) (**GOAT**)
-    - [YT/CodeWithHarry/Python Tutorials for Absolute Beginners in **Hindi**](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)
-    - [GeeksForGeek/Python](https://www.geeksforgeeks.org/python-programming-language/)
-    - [devdocs.io/python~10/tutorial/index](https://devdocs.io/python~3.10/tutorial/index) (for refences)
+<details>
+    <summary>for Python</summary>
+    <ul>
+        <li> <a href="https://docs.python.org/3">Python's Official Documentation</a> (<strong>GOAT</strong>)</li>
+        <li> <a href="https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME">YT/CodeWithHarry/Python Tutorials for Absolute Beginners in <strong>Hindi</strong></a></li>
+        <li> <a href="https://www.geeksforgeeks.org/python-programming-language/" title="GeeksForGeek/Python">GeeksForGeek/Python</a></li>
+        <li> <a href="https://devdocs.io/python~3.10/tutorial/index" title="devdocs.io/python~10/tutorial/index (for references)">devdocs.io/python~10/tutorial/index</a> (for references)</li>
+    </ul>
+</details>
 
 
 ## Well, so far 👇
@@ -75,3 +83,7 @@ Daily DSA in C (&amp; Python) and LeetCode problems
         - 1.1 Contains Duplicate ([solution](<LeetCode Problems/NeetCode Roadmap/Array & Hashing/1.1 Contains Duplicate>)) ([problem](https://leetcode.com/problems/contains-duplicate/description/))
         - 1.2 Valid Anagram ([solution](<LeetCode Problems/NeetCode Roadmap/Array & Hashing/1.2 Valid Anagram>)) ([problem](https://leetcode.com/problems/valid-anagram/description/))
         - 1.3 Two Sum ([solution](<LeetCode Problems/NeetCode Roadmap/Array & Hashing/1.3 Two Sum>)) ([problem](https://leetcode.com/problems/two-sum/description/))
+- 14/01/2024:
+    - Added Queue implementatiom:
+        - in [C](<Data Structures/Linear/Queue/Queue/C>)
+        - to be added in Python
