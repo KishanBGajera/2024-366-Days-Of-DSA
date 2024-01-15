@@ -87,3 +87,8 @@ Daily DSA in C (&amp; Python) and LeetCode problems
     - Added Queue implementatiom:
         - in [C](<Data Structures/Linear/Queue/Queue/C>)
         - to be added in Python
+- 15/01/2024:
+    - Added NeetCode Roadmap Problem Solution:
+        - 2.1 Valid Palindrome ([solution](<LeetCode Problems/NeetCode Roadmap/Two Pointers/2.1 Valid Palindrome>)) ([problem](https://leetcode.com/problems/valid-palindrome/description/))
+    - Added LeetCode #42
+        - Trapping Rain Water ([solution](<LeetCode Problems/Other/Hard/42. Trapping Rain Water>)) ([problem](https://leetcode.com/problems/trapping-rain-water/description/))
