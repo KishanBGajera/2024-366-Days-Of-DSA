@@ -54,34 +54,42 @@ char* infixToPostfix(char infixExpr[]) {
     return postfixExpr;
 }
 
-// double evaluate(char* postfixExpr){
-//     char exprStack[1000];
-//     int exprTop = -1;
+double evaluatePostfix(char* postfixExpr) {
+    int len = strlen(postfixExpr);
+    double stack[1000];
+    int stackIndex = -1;
 
+    for (int i = 0; i < len; i++) {
+        if (isdigit(postfixExpr[i])) {
+            stack[++stackIndex] = postfixExpr[i] - '0';
+        } else {
+            double operand2 = stack[stackIndex--];
+            double operand1 = stack[stackIndex--];
 
-
-//     double answer = 0;
-    
-//     int len = strlen(postfixExpr);
-//     for (int i = 0; i < len; i++)
-//     {
-//         exprStack[++exprTop] = postfixExpr[i];
-//     }
-    
-//     while(exprTop != -1){
-//         if((exprStack[exprTop])){
-
-//         }
-//     }
-    
-//     return answer;
-// }
-
+            switch (postfixExpr[i]) {
+                case '+':
+                    stack[++stackIndex] = operand1 + operand2;
+                    break;
+                case '-':
+                    stack[++stackIndex] = operand1 - operand2;
+                    break;
+                case '*':
+                    stack[++stackIndex] = operand1 * operand2;
+                    break;
+                case '/':
+                    stack[++stackIndex] = operand1 / operand2;
+                    break;
+            }
+        }
+    }
+    return stack[0];
+}
 int main(int argc, char const *argv[])
 {
     char* expr = "1+2-3*4";
     char* postfixExpr = infixToPostfix(expr);
-    double evaluate(postfixExpr);
+    double evaluation = evaluatePostfix(postfixExpr);
+    printf("%f", evaluation);
     return 0;
 }
 
