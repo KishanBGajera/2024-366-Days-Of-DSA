@@ -92,3 +92,12 @@ Daily DSA in C (&amp; Python) and LeetCode problems
         - 2.1 Valid Palindrome ([solution](<LeetCode Problems/NeetCode Roadmap/Two Pointers/2.1 Valid Palindrome>)) ([problem](https://leetcode.com/problems/valid-palindrome/description/))
     - Added LeetCode #42
         - Trapping Rain Water ([solution](<LeetCode Problems/Other/Hard/42. Trapping Rain Water>)) ([problem](https://leetcode.com/problems/trapping-rain-water/description/))
+- 16/01/2024:
+    - Added more functions
+        - [Singly Linked List](<Data Structures/Linear/Linked List/Singly Linked List>)
+    - Added Postfix Expression Evaluation
+        - [C](<Data Structures/Linear/Stack/Applications of Stack/Expression Conversion & Evaluation/Postfix Evaluation/C/main.c>)
+        - [Python](<Data Structures/Linear/Stack/Applications of Stack/Expression Conversion & Evaluation/Postfix Evaluation/Python/main.py>)
+    - Added demo on undo-redo functionality using Stack ([`stack.h`](<Data Structures/Linear/Stack/Applications of Stack/undo-redo demo/C/stack.h>) & [`stack.py`](<Data Structures/Linear/Stack/Applications of Stack/undo-redo demo/Python/stack.py>))
+        - [C](<Data Structures/Linear/Stack/Applications of Stack/undo-redo demo/C/main.c>)
+        - [Python](<Data Structures/Linear/Stack/Applications of Stack/undo-redo demo/Python/main.py>)
