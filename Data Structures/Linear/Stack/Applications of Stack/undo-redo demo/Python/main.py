@@ -10,7 +10,6 @@ def print_menu():
     print("...\t\t r: redo")
     print("...\t\t e: EXIT")
 
-
 def get_user_input():
     choice = input(">>> Enter choice: ")
     operand = 0
