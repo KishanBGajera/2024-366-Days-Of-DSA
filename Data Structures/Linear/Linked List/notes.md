@@ -46,7 +46,7 @@ The Linked List, a versatile data structure, diverges from conventional linear s
 - [Doubly Linked List](<Doubly Linked List>)
 - Circular Linked List
     - [Singly Circular Linked List](<Singly Circular Linked List>)
-    - Doubly Circular Linked List
+    - [Doubly Circular Linked List](Doubly%20Circular%20Linked%20List)
 
 ## Concluding Remarks
 
