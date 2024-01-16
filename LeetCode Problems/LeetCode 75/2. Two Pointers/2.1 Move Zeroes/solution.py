@@ -3,7 +3,6 @@ from typing import List
 class Solution:
     def moveZeroes(self, nums: List[int]) -> None:
         size = len(nums)
-        non_zero = -1
         ptr = 0
 
         for i in range(size):
