@@ -30,18 +30,45 @@ void freeNodeMemory(Node* node){
 }
 
 struct LinkedList{
-    struct Node* head;
-    int size;
+    Node* head;
+    int totalNodes;
 };
 
 typedef struct LinkedList LinkedList;
 
-LinkedList* getLinkedList(int size){
+// LinkedList functions' prototypes
+LinkedList* getLinkedList();
+
+void addToLinkedList(LinkedList*, Node*);
+void insertAt(LinkedList*, int index, Node*);
+void insertAtBeginning(LinkedList*, Node*);
+
+int popOutOfLinkedList(LinkedList* linkedList);
+void removeFromLinkedList(LinkedList* linkedList, int data);
+
+Node* searchNode(LinkedList*, int target);
+Node* getNodeAt(LinkedList*, int index);
+
+void reverseList(LinkedList*);
+void sortList(LinkedList*);
+
+LinkedList* mergedSLLs(LinkedList*, LinkedList*);
+
+void displayLinkedList(LinkedList* linkedList);
+
+LinkedList* getLinkedList(){
     LinkedList* linkedList = (LinkedList*)malloc(sizeof(LinkedList));
-    linkedList->size = size;
+    linkedList->totalNodes = 0;
     linkedList->head = NULL;
-    printf("LinkedList[%d] created\n", linkedList->size);
     return linkedList;
+}
+
+void addedToSLL(LinkedList* linkedList){
+    linkedList->totalNodes++;
+}
+
+void removedFromSLL(LinkedList* linkedList){
+    linkedList->totalNodes--;
 }
 
 void addToLinkedList(LinkedList* linkedList, Node* node){
@@ -55,7 +82,38 @@ void addToLinkedList(LinkedList* linkedList, Node* node){
         }
         currentNode->next = node;
     }
-    printf("Node(%d) added to LinkedList[%d]\n", node->data, linkedList->size);
+    addedToSLL(linkedList);
+}
+
+void insertAt(LinkedList* linkedList, int index, Node* node){
+    if(linkedList->totalNodes - 1 < index){
+        addToLinkedList(linkedList, node);
+        return;
+    }
+    else{
+        int count = 0;
+        Node* currentNode = linkedList->head;
+        while(count != index){
+            count++;
+            currentNode = currentNode->next;
+        }
+        node->next = currentNode->next;
+        currentNode->next = node;
+        addedToSLL(linkedList);
+    }
+}
+
+void insertAtBeginning(LinkedList* linkedList, Node* node){
+    if(!linkedList->head){
+        linkedList->head = node;
+        addedToSLL(linkedList);
+        return;
+    }
+    else{
+        node->next = linkedList->head;
+        linkedList->head = node;
+        addedToSLL(linkedList);
+    }
 }
 
 int popOutOfLinkedList(LinkedList* linkedList){
@@ -68,8 +126,8 @@ int popOutOfLinkedList(LinkedList* linkedList){
     }
 
     currentNode->next = NULL;
-    printf("Node(%d) popped out of LinkedList[%d]\n", nextNode->data, linkedList->size);
     int poppedData = nextNode->data;
+    removedFromSLL(linkedList);
     free(nextNode);
     return poppedData;
 }
@@ -80,7 +138,7 @@ void removeFromLinkedList(LinkedList* linkedList, int data){
 
     if (currentNode->data == data) {
         linkedList->head = nextNode;
-        printf("Removed Node(%d) from LinkedList[%d]\n", currentNode->data, linkedList->size);
+        removedFromSLL(linkedList);
         freeNodeMemory(currentNode);
         return;
     }
@@ -92,13 +150,47 @@ void removeFromLinkedList(LinkedList* linkedList, int data){
 
     if (nextNode) {
         currentNode->next = nextNode->next;
-        printf("Removed Node(%d) from LinkedList[%d]\n", nextNode->data, linkedList->size);
+        printf("Removed Node(%d) from LinkedList\n", nextNode->data);
+        removedFromSLL(linkedList);
         freeNodeMemory(nextNode);
     } else {
-        printf("Node with data %d not found in LinkedList[%d]\n", data, linkedList->size);
+        printf("Node with data %d not found in LinkedList\n", data);
     }
 }
 
+Node* searchNode(LinkedList* linkedList, int target){
+    if(!linkedList->head){
+        return (Node*)0;
+    }
+    else{
+        Node* currentNode = linkedList->head;
+        while(currentNode && currentNode->data != target){
+            currentNode = currentNode->next;
+        }
+        
+        if(currentNode->data == target){
+            return currentNode;
+        }
+        else{
+            return (Node*)0;
+        }
+    }
+}
+
+Node* getNodeAt(LinkedList* linkedLinked, int index){
+    if(!linkedLinked->head){
+        return;
+    }
+    else{
+        int count = 0;
+        Node* currentNode = linkedLinked->head;
+        while(count != index){
+            count++;
+            currentNode = currentNode->next;
+        }
+        return currentNode;
+    }
+}
 
 void displayLinkedList(LinkedList* linkedList){
     Node* currentNode = linkedList->head;

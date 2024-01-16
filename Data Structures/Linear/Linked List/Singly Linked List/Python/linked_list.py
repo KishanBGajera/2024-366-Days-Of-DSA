@@ -8,8 +8,8 @@ class Node:
         self.data = data
 
 class LinkedList:
-    def __init__(self, size):
-        self.size = size
+    def __init__(self):
+        self.total_nodes = 0
         self.head = None
 
     def add_to_linked_list(self, node):
