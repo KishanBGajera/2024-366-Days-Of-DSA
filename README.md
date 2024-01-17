@@ -101,3 +101,7 @@ Daily DSA in C (&amp; Python) and LeetCode problems
     - Added demo on undo-redo functionality using Stack ([`stack.h`](<Data Structures/Linear/Stack/Applications of Stack/undo-redo demo/C/stack.h>) & [`stack.py`](<Data Structures/Linear/Stack/Applications of Stack/undo-redo demo/Python/stack.py>))
         - [C](<Data Structures/Linear/Stack/Applications of Stack/undo-redo demo/C/main.c>)
         - [Python](<Data Structures/Linear/Stack/Applications of Stack/undo-redo demo/Python/main.py>)
+- 17/01/2024:
+    - Added Double Ended Queue
+        - in [C](<Data Structures/Linear/Queue/DEQueue/C>)
+        - in Python (to be added)
