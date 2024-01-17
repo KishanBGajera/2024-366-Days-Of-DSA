@@ -104,4 +104,4 @@ Daily DSA in C (&amp; Python) and LeetCode problems
 - 17/01/2024:
     - Added Double Ended Queue
         - in [C](<Data Structures/Linear/Queue/DEQueue/C>)
-        - in Python (to be added)
+        - in [Python](<Data Structures/Linear/Queue/DEQueue/Python>)
