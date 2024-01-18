@@ -105,3 +105,7 @@ Daily DSA in C (&amp; Python) and LeetCode problems
     - Added Double Ended Queue
         - in [C](<Data Structures/Linear/Queue/DEQueue/C>)
         - in [Python](<Data Structures/Linear/Queue/DEQueue/Python>)
+- 18/01/2024:
+    - Added Max Heap
+        - in [C](<Data Structures/Non-Linear/Heap/Max Heap>)
+        - in Python (to be added)
