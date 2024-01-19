@@ -1,4 +1,4 @@
-from random import choice
+from random import choice, randint
 
 def binary_search(arr: list, target: int, l: int, h: int) -> int:
     if l <= h:
@@ -17,6 +17,7 @@ def binary_search(arr: list, target: int, l: int, h: int) -> int:
 arr = [2, 3, 6, 7, 10, 12, 34, 35, 56, 67, 69, 73, 78, 81, 90, 95] # MUST BE SORTED (ASC or DESC, but according to our logic, it must be ASC)
 
 for _ in range(5):
-    target = choice(arr)
-    idx = binary_search(arr, target, 0, len(arr))
+    target = randint(0, 100)
+    print(target)
+    idx = binary_search(arr, target, 0, len(arr) - 1)
     print(f"{target} at {idx}")
