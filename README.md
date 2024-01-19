@@ -108,4 +108,10 @@ Daily DSA in C (&amp; Python) and LeetCode problems
 - 18/01/2024:
     - Added Max Heap
         - in [C](<Data Structures/Non-Linear/Heap/Max Heap>)
-        - in Python (to be added)
+- 19/01/2024:
+    - Added Max Heap
+        - in [Python](<Data Structures/Non-Linear/Heap/Max Heap/Python>)
+    - Added Heap Sort
+        - in [C](<Algorithms/Sorting/Heap Sort/heapSort.c>)
+        - in [Python](<Algorithms/Sorting/Heap Sort/heap_sort.py>)
+    - Added [Heap Explanation](<Data Structures/Non-Linear/Heap/README.md>)
