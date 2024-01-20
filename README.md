@@ -115,3 +115,8 @@ Daily DSA in C (&amp; Python) and LeetCode problems
         - in [C](<Algorithms/Sorting/Heap Sort/heapSort.c>)
         - in [Python](<Algorithms/Sorting/Heap Sort/heap_sort.py>)
     - Added [Heap Explanation](<Data Structures/Non-Linear/Heap/README.md>)
+- 20/01/2024:
+    - Added Interpolation Search
+        - in [C](<Algorithms/Searching/Interpolation Search/C>)
+        - in [Python](<Algorithms/Searching/Interpolation Search/Python>)
+    - Added Interpolation Search [notes/explanations](<Algorithms/Searching/Interpolation Search/README.md>)
