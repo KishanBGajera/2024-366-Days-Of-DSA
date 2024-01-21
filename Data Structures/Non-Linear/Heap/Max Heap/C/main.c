@@ -9,6 +9,7 @@ int main()
     }
     printMaxHeap(maxHeap);
 
+    printf("max: %d\n", getMax(maxHeap));
     removeMax(maxHeap);
     printMaxHeap(maxHeap);
 

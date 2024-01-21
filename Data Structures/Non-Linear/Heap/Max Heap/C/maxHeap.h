@@ -3,6 +3,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <stdbool.h>
 
 struct MaxHeap {
     int* data;
@@ -18,6 +19,10 @@ MaxHeap* createMaxHeap(int maxSize) {
     maxHeap->maxSize = maxSize;
     maxHeap->heapSize = 0;
     return maxHeap;
+}
+
+bool isEmpty(MaxHeap* maxHeap){
+    return maxHeap->heapSize == 0;
 }
 
 int parent(int i) {
@@ -82,6 +87,10 @@ void insert(MaxHeap* maxHeap, int value) {
         swap(maxHeap->data, index, parent(index));
         index = parent(index);
     }
+}
+
+int getMax(MaxHeap* maxHeap){
+    return isEmpty(maxHeap) ? -1 : maxHeap->data[0];
 }
 
 int removeMax(MaxHeap* maxHeap) {

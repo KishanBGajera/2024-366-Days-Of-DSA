@@ -56,6 +56,9 @@ class MaxHeap:
             self.data[index], self.data[self.parent(index)] = self.data[self.parent(index)], self.data[index]
             index = self.parent(index)
 
+    def get_max(self):
+        return -1 if self.is_empty() else self.data[0]
+
     def remove_max(self):
         if self.is_empty():
             print("Error: Heap is empty")

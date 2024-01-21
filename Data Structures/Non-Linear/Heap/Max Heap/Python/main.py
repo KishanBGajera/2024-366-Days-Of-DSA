@@ -7,6 +7,7 @@ for i in range(10):
 
 mheap.print()
 
+print(f"max: {mheap.get_max()}")
 mheap.remove_max()
 mheap.print()
 
