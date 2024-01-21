@@ -120,3 +120,7 @@ Daily DSA in C (&amp; Python) and LeetCode problems
         - in [C](<Algorithms/Searching/Interpolation Search/C>)
         - in [Python](<Algorithms/Searching/Interpolation Search/Python>)
     - Added Interpolation Search [notes/explanations](<Algorithms/Searching/Interpolation Search/README.md>)
+- 21/01/2024:
+    - Added Min Heap Implementation
+        - In [C](<Data Structures/Non-Linear/Heap/Min Heap/C>)
+        - In [Python](<Data Structures/Non-Linear/Heap/Min Heap/Python>)
