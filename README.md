@@ -124,3 +124,7 @@ Daily DSA in C (&amp; Python) and LeetCode problems
     - Added Min Heap Implementation
         - In [C](<Data Structures/Non-Linear/Heap/Min Heap/C>)
         - In [Python](<Data Structures/Non-Linear/Heap/Min Heap/Python>)
+- 22/01/2024:
+    - Added Priority Queue (Without Heap)
+        - In [C](<Data Structures/Linear/Queue/Priority Queue/Without Heap/C>)
+        - In [Python](<Data Structures/Linear/Queue/Priority Queue/Without Heap/Python>)
