@@ -222,14 +222,15 @@ ___
 - A Complete Binary Tree
 - Can be stored in an Array
 e.g.:
-    ```mermaid
-    graph TD
-    100 --> 10
-    100 --> 20
+```mermaid
+graph TD
+100 --> 10
+100 --> 20
 
-    10 --> 3
-    10 --> 6
-    ```
+10 --> 3
+10 --> 6
+```
+
 - Heap's array representation: 
     - values: `[100,  10,  20,   3,   6]`
     
@@ -237,7 +238,7 @@ e.g.:
     - In the worst case, all the levels of a tree will be completely filled.
         - $\therefore$ It will be a perfect binary tree.
         - if height(PBT) = `h`
-        - then, No. of nodes = $2^{h+1} - 1 $ $\leftarrow \text{(size of array)}$
+        - then, No. of nodes = $ 2^{h+1} - 1 $ $\leftarrow \text{(size of array)} $
 
 **Max Heapify (aka Percolate Down) Algorithm**
 - Max Heap: Root node should be greater than all left and right sub-tree nodes and it is recursively true for all sub-trees.
