@@ -128,3 +128,6 @@ Daily DSA in C (&amp; Python) and LeetCode problems
     - Added Priority Queue (Without Heap)
         - In [C](<Data Structures/Linear/Queue/Priority Queue/Without Heap/C>)
         - In [Python](<Data Structures/Linear/Queue/Priority Queue/Without Heap/Python>)
+- 23/01/2024:
+    - Revised and Updated Heap Notes
+        - [Heap Notes](<Data Structures/Non-Linear/Heap/README.md>)
