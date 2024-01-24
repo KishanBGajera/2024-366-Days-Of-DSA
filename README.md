@@ -131,3 +131,8 @@ Daily DSA in C (&amp; Python) and LeetCode problems
 - 23/01/2024:
     - Revised and Updated Heap Notes
         - [Heap Notes](<Data Structures/Non-Linear/Heap/README.md>)
+- 24/01/2024:
+    - Added Binary Tree
+        - In [C](<Data Structures/Non-Linear/Tree/Binary Tree/C>)
+    - Added N-ary Tree
+        - In [C](<Data Structures/Non-Linear/Tree/N-ary Tree/C>)
