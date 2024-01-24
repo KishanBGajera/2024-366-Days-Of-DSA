@@ -116,4 +116,16 @@ void printMaxHeap(MaxHeap* maxHeap) {
     printf("\n");
 }
 
+void printInHeapForm(MaxHeap* maxHeap, int level, int index){
+    if(index < maxHeap->heapSize){
+        printInHeapForm(maxHeap, level + 1, 2*index + 2);
+        for (int i = 0; i < level; i++)
+        {
+            printf("    ");
+        }
+        printf("%d\n", maxHeap->data[index]);
+        printInHeapForm(maxHeap, level + 1, 2*index + 1);
+    }
+}
+
 #endif

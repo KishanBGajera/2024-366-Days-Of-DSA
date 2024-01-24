@@ -13,11 +13,12 @@ int main()
     removeMax(maxHeap);
     printMaxHeap(maxHeap);
 
-    int arr[] = {9, 8, 1, 2, 7, 6};
+    int arr[] = {9, 8, 1, 2, 7, 6, 10};
     int size = sizeof(arr)/sizeof(int);
     
     buildMaxHeap(maxHeap, arr, size);
     printMaxHeap(maxHeap);
+    printInHeapForm(maxHeap, 0, 0);
 
     return 0;
 }
