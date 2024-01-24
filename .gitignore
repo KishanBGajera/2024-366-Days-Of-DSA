@@ -2,3 +2,4 @@
 *.exe
 __pycache__
 TODO.md
+tmp.c
