@@ -136,3 +136,8 @@ Daily DSA in C (&amp; Python) and LeetCode problems
         - In [C](<Data Structures/Non-Linear/Tree/Binary Tree/C>)
     - Added N-ary Tree
         - In [C](<Data Structures/Non-Linear/Tree/N-ary Tree/C>)
+- 25/01/2024:
+    - Updated N-ary Tree
+        - Updated in [C](<Data Structures/Non-Linear/Tree/N-ary Tree/C>)
+    - Added Binary Search Tree in C
+        - in [C](<Data Structures/Non-Linear/Tree/Binary Search Tree/C>)
