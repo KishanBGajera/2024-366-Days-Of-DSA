@@ -17,7 +17,7 @@ Node* getNode(int data){
     Node* node = (Node*)malloc(sizeof(Node));
     node->data = data;
     node->totalChildren = 0;
-    node->children = (Node**)malloc(sizeof(Node*)*5);
+    node->children = (Node**)malloc(sizeof(Node*)*node->totalChildren);
     return node;
 }
 
@@ -25,15 +25,16 @@ Node* searchNode(Node* root, int data){
     if(root->data == data){
         return root;
     }
-    else if (root->children > 0){
+    else{
         for (int i = 0; i < root->totalChildren; i++)
         {
-            return searchNode(root->children[i], data);
+            Node* result = searchNode(root->children[i], data);
+            if(result){
+                return result;
+            }
         }
     }
-    else{
-        return NULL;
-    }
+    return NULL;
 }
 
 void insertToTree(Node* root, int parent, int child){
@@ -42,7 +43,12 @@ void insertToTree(Node* root, int parent, int child){
     }
     else{
         Node* parentNode = searchNode(root, parent);
-        parentNode->children[parentNode->totalChildren++] = getNode(child);
+        if(!parentNode){
+            printf("ParentNotFoundError: couldn't find Node(%d)\n", parent);
+            return;
+        }
+        parentNode->children = realloc(parentNode->children, sizeof(Node*)*(++parentNode->totalChildren));
+        parentNode->children[parentNode->totalChildren-1] = getNode(child);
     }
 }
 
@@ -63,20 +69,42 @@ void printTree(Node* root, int level){
     }
 }
 
-// void printPath(Node* root, int target){
-//     // char* path[0];
-//     if(root->data == target){
-//         return root;
-//     }
-//     else if (root->children > 0){
-//         for (int i = 0; i < root->totalChildren; i++)
-//         {
-//             return searchNode(root->children[i], target);
-//         }
-//     }
-//     else{
-//         return NULL;
-//     }
-// }
+bool findPath(Node* root, int target, int path[], int* pathLength) {
+    if (root == NULL) {
+        return false;
+    }
+
+    path = realloc(path, sizeof(int)*(++(*pathLength)));
+    path[*pathLength - 1] = root->data;
+
+    if (root->data == target) {
+        return true;
+    }
+
+    for (int i = 0; i < root->totalChildren; i++) {
+        if (findPath(root->children[i], target, path, pathLength)) {
+            return true;
+        }
+    }
+
+    (*pathLength)--;
+    path = realloc(path, sizeof(int)*(*pathLength));
+    return false;
+}
+
+void printPath(Node* root, int target) {
+    int pathLength = 0;
+    int *path = (int*)malloc(sizeof(int)*pathLength);
+
+    if (findPath(root, target, path, &pathLength)) {
+        printf("Path to Node(%d): ", target);
+        for (int i = 0; i < pathLength; i++) {
+            printf("%d ", path[i]);
+        }
+        printf("\n");
+    } else {
+        printf("Node(%d) not found in the tree.\n", target);
+    }
+}
 
 #endif
