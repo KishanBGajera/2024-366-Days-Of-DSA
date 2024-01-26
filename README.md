@@ -141,3 +141,5 @@ Daily DSA in C (&amp; Python) and LeetCode problems
         - Updated in [C](<Data Structures/Non-Linear/Tree/N-ary Tree/C>)
     - Added Binary Search Tree in C
         - in [C](<Data Structures/Non-Linear/Tree/Binary Search Tree/C>)
+- 26/01/2024:
+    - Added Queue [notes](<Data Structures/Linear/Queue/README.md>): explanations, real world analogies, and use cases in Computer Science
