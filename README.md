@@ -145,3 +145,5 @@ Daily DSA in C (&amp; Python) and LeetCode problems
     - Added Queue [notes](<Data Structures/Linear/Queue/README.md>): explanations, real world analogies, and use cases in Computer Science
 - 27/01/2024:
     - Added Tree [Notes](<Data Structures/Non-Linear/Tree/README.md>): explanations, real world analogies, and use cases in Computer Science
+- 28/01/2024:
+    - Added Undo-Redo Demo [notes](<Data Structures/Linear/Stack/Applications of Stack/undo-redo demo/README.md>)
