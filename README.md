@@ -149,3 +149,5 @@ Daily DSA in C (&amp; Python) and LeetCode problems
     - Added Undo-Redo Demo [notes](<Data Structures/Linear/Stack/Applications of Stack/undo-redo demo/README.md>)
 - 29/01/2024:
     - Added LeetCode #10 ([problem](https://leetcode.com/problems/regular-expression-matching/description/)) ([solution](<LeetCode Problems/Other/Hard/10. Regular Expression Matching/solution.py>))
+- 30/01/2024:
+    - Added Binary Tree in [Python](<Data Structures/Non-Linear/Tree/Binary Tree/Python/binary_tree.py>)
