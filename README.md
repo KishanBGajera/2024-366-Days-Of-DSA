@@ -151,3 +151,5 @@ Daily DSA in C (&amp; Python) and LeetCode problems
     - Added LeetCode #10 ([problem](https://leetcode.com/problems/regular-expression-matching/description/)) ([solution](<LeetCode Problems/Other/Hard/10. Regular Expression Matching/solution.py>))
 - 30/01/2024:
     - Added Binary Tree in [Python](<Data Structures/Non-Linear/Tree/Binary Tree/Python/binary_tree.py>)
+- 31/01/2024:
+    - Added Doubly Circular Linked List in [C](<Data Structures/Linear/Linked List/Doubly Circular Linked List/C>)
