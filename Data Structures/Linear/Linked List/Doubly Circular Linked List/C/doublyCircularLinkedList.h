@@ -57,7 +57,7 @@ Node* searchDCLLNode(DoublyCircularLinkedList* DCLL, int target);
 Node* getDCLLNodeAt(DoublyCircularLinkedList* DCLL, int index);
 
 void printDCLL(DoublyCircularLinkedList* DCLL);
-void freeDoublyCircularLinkedList(DoublyCircularLinkedList* DCLL);
+void freeDCLL(DoublyCircularLinkedList* DCLL);
 
 // definitions
 DoublyCircularLinkedList* getDoublyCircularLinkedList(){
