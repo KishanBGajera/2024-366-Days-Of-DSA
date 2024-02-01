@@ -153,3 +153,9 @@ Daily DSA in C (&amp; Python) and LeetCode problems
     - Added Binary Tree in [Python](<Data Structures/Non-Linear/Tree/Binary Tree/Python/binary_tree.py>)
 - 31/01/2024:
     - Added Doubly Circular Linked List in [C](<Data Structures/Linear/Linked List/Doubly Circular Linked List/C>)
+
+- 01/02/2024:
+    - Added program to check if the expression has Valid Parantheses of not:
+        - in [C](<Data Structures/Linear/Stack/Applications of Stack/Valid Parentheses/C>)
+        - in [Python](<Data Structures/Linear/Stack/Applications of Stack/Valid Parentheses/Python>)
+        - notes to-be-added
