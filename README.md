@@ -159,3 +159,7 @@ Daily DSA in C (&amp; Python) and LeetCode problems
         - in [C](<Data Structures/Linear/Stack/Applications of Stack/Valid Parentheses/C>)
         - in [Python](<Data Structures/Linear/Stack/Applications of Stack/Valid Parentheses/Python>)
         - notes to-be-added
+- 02/02/2024:
+    - Added Python Programming Concepts
+        - [Error Handling](<Programming Concepts/Python/Exception Handling>)
+        - [Decorators in Python](<Programming Concepts/Python/Decorators in Python>)
