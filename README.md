@@ -161,5 +161,5 @@ Daily DSA in C (&amp; Python) and LeetCode problems
         - notes to-be-added
 - 02/02/2024:
     - Added Python Programming Concepts
-        - [Error Handling](<Programming Concepts/Python/Exception Handling>)
+        - [Exception Handling](<Programming Concepts/Python/Exception Handling>)
         - [Decorators in Python](<Programming Concepts/Python/Decorators in Python>)
