@@ -163,3 +163,8 @@ Daily DSA in C (&amp; Python) and LeetCode problems
     - Added Python Programming Concepts
         - [Exception Handling](<Programming Concepts/Python/Exception Handling>)
         - [Decorators in Python](<Programming Concepts/Python/Decorators in Python>)
+- 03/02/2024:
+    - Added Undirected Graph implemented with Adjacency Matrix
+        - in [C](<Data Structures/Non-Linear/Graph/Types of Graphs/Undirected Graph/Using Adjacency Matrix/C>)
+        - in [Python](<Data Structures/Non-Linear/Graph/Types of Graphs/Undirected Graph/Using Adjacency Matrix/Python>)
+        - Graph notes and Undirected Graph notes to be added
