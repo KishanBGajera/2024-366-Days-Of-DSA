@@ -168,3 +168,6 @@ Daily DSA in C (&amp; Python) and LeetCode problems
         - in [C](<Data Structures/Non-Linear/Graph/Types of Graphs/Undirected Graph/Using Adjacency Matrix/C>)
         - in [Python](<Data Structures/Non-Linear/Graph/Types of Graphs/Undirected Graph/Using Adjacency Matrix/Python>)
         - Graph notes and Undirected Graph notes to be added
+- 04/02/2024:
+    - Added Undirected Graph implemented with Adjacency List:
+        - in [C](<Data Structures/Non-Linear/Graph/Types of Graphs/Undirected Graph/Using Adjacency List/C>)
