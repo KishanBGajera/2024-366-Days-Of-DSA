@@ -376,5 +376,25 @@ Daily DSA in C (&amp; Python) and LeetCode problems
                             <li> in <a href="https://github.com/kishanbgajera/2024-366-Days-Of-DSA/tree/main/Data%20Structures/Non-Linear/Graph/Types%20of%20Graphs/Undirected%20Graph/Using%20Adjacency%20Matrix%20-%20Weighted%20Graph/C">C</a>
             </ul>
         </details>
+        <details>
+            <summary>06/02/2024:</summary>
+            <ul>
+                <li> Added a function to calculate Height of Tree
+                    <ul>
+                        <li>in <a href="https://github.com/kishanbgajera/2024-366-Days-Of-DSA/tree/main/Data Structures/Non-Linear/Tree/Tree Algorithms/Height of Tree/C">C</a></li>
+                    </ul>
+                </li>
+                <li> Added LevelOrderTraversal of Tree
+                    <ul>
+                        <li>in <a href="https://github.com/kishanbgajera/2024-366-Days-Of-DSA/tree/main/Data Structures/Non-Linear/Tree/Tree Algorithms/Level Order Traversal/C">C</a></li>
+                    </ul>
+                </li>
+                <li> Added BST Node Deletion function
+                    <ul>
+                        <li>in <a href="https://github.com/kishanbgajera/2024-366-Days-Of-DSA/tree/main/Data Structures/Non-Linear/Tree/Tree Algorithms/Node Deletion in BST/C">C</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </details>
     </ul>
 </details>
