@@ -396,5 +396,15 @@ Daily DSA in C (&amp; Python) and LeetCode problems
                 </li>
             </ul>
         </details>
+        <details>
+            <summary>07/02/2024:</summary>
+            <ul>
+                <li>Added Undirected Weighted Graph Using Adjaceny Matrix
+                    <ul>
+                        <li>in <a href="https://github.com/kishanbgajera/2024-366-Days-Of-DSA/tree/main/Data Structures/Non-Linear/Graph/Types of Graphs/Undirected Graph/Using Adjacency Matrix - Weighted Graph/Python">Python</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </details>
     </ul>
 </details>
