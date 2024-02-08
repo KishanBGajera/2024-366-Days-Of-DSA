@@ -406,5 +406,17 @@ Daily DSA in C (&amp; Python) and LeetCode problems
                 </li>
             </ul>
         </details>
+        <details>
+            <summary>08/02/2024:</summary>
+            <ul>
+                <li> Added fast-slow pointers (two pointers) algorithm's applications
+                    <ul>
+                        <li>Cycle or Loop detection in <a href="https://github.com/kishanbgajera/2024-366-Days-Of-DSA/tree/main/Algorithms/Two Pointers - Hare and Tortoise Algorithm/Cycle or Loop Detection/LinkedList">LinkedList</a></li>
+                        <li>Find mid element from <a href="https://github.com/kishanbgajera/2024-366-Days-Of-DSA/tree/main/Algorithms/Two Pointers - Hare and Tortoise Algorithm/Find Mid of Linked List">LinkedList</a></li>
+                    </ul>
+                </li>
+                <li>Added a basic <a href="https://github.com/kishanbgajera/2024-366-Days-Of-DSA/tree/main/Algorithms/Hashing">hash function</a></li>
+            </ul>
+        </details>
     </ul>
 </details>
