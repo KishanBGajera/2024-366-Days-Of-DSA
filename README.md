@@ -418,5 +418,11 @@ Daily DSA in C (&amp; Python) and LeetCode problems
                 <li>Added a basic <a href="https://github.com/kishanbgajera/2024-366-Days-Of-DSA/tree/main/Algorithms/Hashing">hash function</a></li>
             </ul>
         </details>
+        <details>
+            <summary>09/02/2024</summary>
+            <ul>
+                <li>Added <a href="https://github.com/kishanbgajera/2024-366-Days-Of-DSA/tree/main/Data Structures/Non-Linear/Graph/README.md">Graph notes</a></li>
+            </ul>
+        </details>
     </ul>
 </details>
