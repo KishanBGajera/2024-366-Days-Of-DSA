@@ -432,5 +432,11 @@ Daily DSA in C (&amp; Python) and LeetCode problems
             </ul>
             </summary>
         </details>
+        <details>
+            <summary>11/02/2024:</summary>
+            <ul>
+                <li>Added <a href="https://github.com/kishanbgajera/2024-366-Days-Of-DSA/tree/main/Data Structures/Special Data Structures/Dictionary in C">Dictionary-like structure</a> in C using Hashing</li>
+            </ul>
+        </details>
     </ul>
 </details>
