@@ -1,5 +1,6 @@
 # 2024-366-Days-Of-DSA
-Daily DSA in C (&amp; Python) and LeetCode problems
+Daily DSA in C (&amp; Python) and LeetCode problems\
+(Feel free to correct the implementation, _if you encounter any problems_, or find better solutions, hit me with a PR)
 
 ### Main Recources:
 <details>
@@ -436,6 +437,17 @@ Daily DSA in C (&amp; Python) and LeetCode problems
             <summary>11/02/2024:</summary>
             <ul>
                 <li>Added <a href="https://github.com/kishanbgajera/2024-366-Days-Of-DSA/tree/main/Data Structures/Special Data Structures/Dictionary in C">Dictionary-like structure</a> in C using Hashing</li>
+            </ul>
+        </details>
+        <details>
+            <summary>12/02/2024:</summary>
+            <ul>
+                <li>Added Directed Unweighted Graph Implementation
+                    <ul>
+                        <li>in <a href="https://github.com/kishanbgajera/2024-366-Days-Of-DSA/tree/main/Data Structures/Non-Linear/Graph/Types of Graphs/Directed Graph/Unweighted/C">C</a></li>
+                        <li>in <a href="https://github.com/kishanbgajera/2024-366-Days-Of-DSA/tree/main/Data Structures/Non-Linear/Graph/Types of Graphs/Directed Graph/Unweighted/Python">Python</a></li>
+                    </ul>
+                </li>
             </ul>
         </details>
     </ul>
