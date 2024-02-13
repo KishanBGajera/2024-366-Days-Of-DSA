@@ -450,5 +450,15 @@ Daily DSA in C (&amp; Python) and LeetCode problems\
                 </li>
             </ul>
         </details>
+        <details>
+            <summary>13/02/2024:</summary>
+            <ul> 
+                <li>Added AVL Tree Implementation
+                    <ul>
+                        <li>in <a href="https://github.com/kishanbgajera/2024-366-Days-Of-DSA/tree/main/Data Structures/Non-Linear/Tree/AVL Tree/C">C</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </details>
     </ul>
 </details>
