@@ -460,5 +460,11 @@ Daily DSA in C (&amp; Python) and LeetCode problems\
                 </li>
             </ul>
         </details>
+        <details>
+            <summary>14/02/2024:</summary>
+            <ul>
+                <li>Added Kruskal's Algorithm in <a href="https://github.com/kishanbgajera/2024-366-Days-Of-DSA/tree/main/Data Structures/Non-Linear/Graph/Graph Algorithms/Minimum Spanning Tree/Kruskal's Algorithm/Python">Python</a></li>
+            </ul>
+        </details>
     </ul>
 </details>
