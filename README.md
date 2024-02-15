@@ -466,5 +466,11 @@ Daily DSA in C (&amp; Python) and LeetCode problems\
                 <li>Added Kruskal's Algorithm in <a href="https://github.com/kishanbgajera/2024-366-Days-Of-DSA/tree/main/Data Structures/Non-Linear/Graph/Graph Algorithms/Minimum Spanning Tree/Kruskal's Algorithm/Python">Python</a></li>
             </ul>
         </details>
+        <details>
+            <summary>15/02/2024:</summary>
+            <ul>
+                <li>Added Diameter of Tree Program <a href="https://github.com/kishanbgajera/2024-366-Days-Of-DSA/tree/main/Data Structures/Non-Linear/Tree/Tree Algorithms/Diameter of Tree/C">C</a></li>
+            </ul>
+        </details>
     </ul>
 </details>
