@@ -472,5 +472,11 @@ Daily DSA in C (&amp; Python) and LeetCode problems\
                 <li>Added Diameter of Tree Program <a href="https://github.com/kishanbgajera/2024-366-Days-Of-DSA/tree/main/Data Structures/Non-Linear/Tree/Tree Algorithms/Diameter of Tree/C">C</a></li>
             </ul>
         </details>
+        <details>
+            <summary>16/02/2024:</summary>
+            <ul>
+                <li>Added <a href="https://github.com/kishanbgajera/2024-366-Days-Of-DSA/tree/main/Programming Concepts/C/Pointers">Pointers in C</a> programming concept</li>
+            </ul>
+        </details>
     </ul>
 </details>
