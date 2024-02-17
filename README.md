@@ -478,5 +478,11 @@ Daily DSA in C (&amp; Python) and LeetCode problems\
                 <li>Added <a href="https://github.com/kishanbgajera/2024-366-Days-Of-DSA/tree/main/Programming Concepts/C/Pointers">Pointers in C</a> programming concept</li>
             </ul>
         </details>
+        <details>
+            <summary>17/02/2024:</summary>
+            <ul>
+                <li>Added LeetCode #104 and #206</li>
+            </ul>
+        </details>
     </ul>
 </details>
