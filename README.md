@@ -484,5 +484,17 @@ Daily DSA in C (&amp; Python) and LeetCode problems\
                 <li>Added LeetCode #104 and #206</li>
             </ul>
         </details>
+        <details>
+            <summary>18/02/2024:</summary>
+            <ul>
+                <li>Added LeetCode Problems' Solutions</li>
+                <ul>
+                    <li>NeetCode/roadmap 1.6 <a href="https://github.com/KishanBGajera/tree/main/LeetCode Problems/NeetCode Roadmap/Array & Hashing/1.6 Product of Array Except Self/solution.py">solution</a></li>
+                    <li>LeetCode #169: <a href="https://github.com/KishanBGajera/tree/main/LeetCode Problems/Other/Easy/169. Majority Element/solution.py">solution</a></li>
+                    <li>LeetCode #392: <a href="https://github.com/KishanBGajera/tree/main/LeetCode Problems/Other/Easy/392. Is Subsequence/solution.py">solution</a></li>
+                    <li>LeetCode #2095: <a href="https://github.com/KishanBGajera/tree/main/LeetCode Problems/Other/Medium/2095. Delete the Middle Node of a Linked List/solution.py">solution</a></li>
+                </ul>
+            </ul>
+        </details>
     </ul>
 </details>
