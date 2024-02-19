@@ -489,10 +489,20 @@ Daily DSA in C (&amp; Python) and LeetCode problems\
             <ul>
                 <li>Added LeetCode Problems' Solutions</li>
                 <ul>
-                    <li>NeetCode/roadmap 1.6 <a href="https://github.com/KishanBGajera/tree/main/LeetCode Problems/NeetCode Roadmap/Array & Hashing/1.6 Product of Array Except Self/solution.py">solution</a></li>
-                    <li>LeetCode #169: <a href="https://github.com/KishanBGajera/tree/main/LeetCode Problems/Other/Easy/169. Majority Element/solution.py">solution</a></li>
-                    <li>LeetCode #392: <a href="https://github.com/KishanBGajera/tree/main/LeetCode Problems/Other/Easy/392. Is Subsequence/solution.py">solution</a></li>
-                    <li>LeetCode #2095: <a href="https://github.com/KishanBGajera/tree/main/LeetCode Problems/Other/Medium/2095. Delete the Middle Node of a Linked List/solution.py">solution</a></li>
+                    <li>NeetCode/roadmap 1.6 <a href="https://github.com/KishanBGajera/2024-366-Days-Of-DSA/tree/main/LeetCode Problems/NeetCode Roadmap/Array & Hashing/1.6 Product of Array Except Self/solution.py">solution</a></li>
+                    <li>LeetCode #169: <a href="https://github.com/KishanBGajera/2024-366-Days-Of-DSA/tree/main/LeetCode Problems/Other/Easy/169. Majority Element/solution.py">solution</a></li>
+                    <li>LeetCode #392: <a href="https://github.com/KishanBGajera/2024-366-Days-Of-DSA/tree/main/LeetCode Problems/Other/Easy/392. Is Subsequence/solution.py">solution</a></li>
+                    <li>LeetCode #2095: <a href="https://github.com/KishanBGajera/2024-366-Days-Of-DSA/tree/main/LeetCode Problems/Other/Medium/2095. Delete the Middle Node of a Linked List/solution.py">solution</a></li>
+                </ul>
+            </ul>
+        </details>
+        <details>
+            <summary>19/02/2024:</summary>
+            <ul>
+                <li>Solved LeetCode Problems (Easy)</li>
+                <ul>
+                    <li>LeetCode #231 <a href="https://github.com/KishanBGajera/2024-366-Days-Of-DSA/tree/main/LeetCode Problems/Other/Easy/231. Power of Two">solution</a></li>
+                    <li>LeetCode #724 & #1991 <a href="https://github.com/KishanBGajera/2024-366-Days-Of-DSA/tree/main/LeetCode Problems/Other/Easy/724. Find Pivot Index & 1991. Find the Middle Index in Array">solution</a></li>
                 </ul>
             </ul>
         </details>
