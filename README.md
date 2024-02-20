@@ -506,5 +506,18 @@ Daily DSA in C (&amp; Python) and LeetCode problems\
                 </ul>
             </ul>
         </details>
+        <details>
+            <summary>20/02/2024:</summary>
+            <ul>
+                <li>Solved LeetCode Problems</li>
+                <ul>
+                    <li>Added LeetCode 75 #1.5 <a href="https://github.com/KishanBGajera/2024-366-Days-Of-DSA/tree/main/LeetCode Problems/LeetCode 75/1. Array & String/1.5 Reverse Vowels of a String/solution.py">solution</a></li>
+                    <li>Added LeetCode #268 <a href="https://github.com/KishanBGajera/2024-366-Days-Of-DSA/tree/main/LeetCode Problems/Other/Easy/268. Missing Number/solution.py">solution</a></li>
+                    <li>Added NeetCode Stack #1 <a href="https://github.com/KishanBGajera/2024-366-Days-Of-DSA/tree/main/LeetCode Problems/NeetCode Roadmap/Stack/1. 20. Valid Parentheses/solution.py">solution</a></li>
+                    <li>Added NeetCode Stack #3 <a href="https://github.com/KishanBGajera/2024-366-Days-Of-DSA/tree/main/LeetCode Problems/NeetCode Roadmap/Stack/3. 150. Evaluate Reverse Polish Notation/solution.py">solution</a></li>
+                    <li>Added NeetCode Roadmap Binary Search #1 <a href="https://github.com/KishanBGajera/2024-366-Days-Of-DSA/tree/main/LeetCode Problems/NeetCode Roadmap/Binary Search/1. 704. Binary Search/solution.py">solution</a></li>
+                </ul>
+            </ul>
+        </details>
     </ul>
 </details>
