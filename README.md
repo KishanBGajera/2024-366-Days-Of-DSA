@@ -519,5 +519,16 @@ Daily DSA in C (&amp; Python) and LeetCode problems\
                 </ul>
             </ul>
         </details>
+        <details>
+            <summary>21/02/2024:</summary>
+            <ul>
+                <li>Added LeetCode Problems' solutions</li>
+                <ul>
+                    <li>NeetCode Roadmap/Two Pointers/ #2 <a href="https://github.com/KishanBGajera/2024-366-Days-Of-DSA/tree/main/LeetCode Problems/NeetCode Roadmap/Two Pointers/2.2 Two Sum II Input Array Is Sorted/solution.py">solution</a></li>
+                    <li>LeetCode #201 <a href="https://github.com/KishanBGajera/2024-366-Days-Of-DSA/tree/main/LeetCode Problems/Other/Medium/201. Bitwise AND of Numbers Range/solution.py">solution</a></li>
+                    <li>NeetCode Roadmap/Binary Search/ #2 <a href="https://github.com/KishanBGajera/2024-366-Days-Of-DSA/tree/main/LeetCode Problems/NeetCode Roadmap/Binary Search/2. Search a 2D Matrix/solution.py">solution</a></li>
+                </ul>
+            </ul>
+        </details>
     </ul>
 </details>
