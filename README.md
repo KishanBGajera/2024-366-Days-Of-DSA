@@ -530,5 +530,22 @@ Daily DSA in C (&amp; Python) and LeetCode problems\
                 </ul>
             </ul>
         </details>
+        <details>
+            <summary>22/02/2024:</summary>
+            <ul>
+                <li>Added (MORE) LeetCode Problems' solutions</li>
+                <ul>
+                    <li>Added LeetCode #226
+                    <li>Added LeetCode #104
+                    <li>Added LeetCode #100
+                    <li>Added LeetCode #1318
+                    <li>Added LeetCode #338
+                    <li>Added LeetCode #136
+                    <li>Added LeetCode 75 Prefix Sum #1732
+                    <li>Added LeetCode Problems' solution /Easy
+                    <li>Added LeetCode #997
+                </ul>
+            </ul>
+        </details>
     </ul>
 </details>
