@@ -34,6 +34,10 @@ Node* insertToBST(Node* root, int data){
     return root;
 }
 
+/**
+ * Deletion of a Node at Tree/Tree Algorithms/Node Deletion in BST
+ */
+
 void preorderTraversal(Node* root){
     if(root){
         printf("%d ", root->data);
