@@ -553,5 +553,13 @@ Daily DSA in C (&amp; Python) and LeetCode problems\
                 <li>Added LeetCode #54: Spiral Matrix</li>
             </ul>
         </details>
+        <details>
+            <summary>24/02/2024:</summary>
+            <ul>
+                <li>Updated BST.h</li>
+                <li>Added solution-2 for LeetCode #54: Spiral Matrix</li>
+                <li>Added LeetCode #572: Subtree of Another Tree</li>
+            </ul>
+        </details>
     </ul>
 </details>
