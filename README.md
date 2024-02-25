@@ -561,5 +561,12 @@ Daily DSA in C (&amp; Python) and LeetCode problems\
                 <li>Added LeetCode #572: Subtree of Another Tree</li>
             </ul>
         </details>
+        <details>
+            <summary>25/02/2024:</summary>
+            <ul>
+                <li>Added LeetCode #49 solution</li>
+                <li>Added Recursion notes</li>
+            </ul>
+        </details>
     </ul>
 </details>
