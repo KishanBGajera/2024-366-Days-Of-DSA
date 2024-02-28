@@ -582,10 +582,17 @@ Daily DSA in C (&amp; Python) and LeetCode problems\
             </ul>
         </details>
         <details>
-            <summary>27/02/2024</summary>
+            <summary>27/02/2024:</summary>
             <ul>
                 <li>Added LeetCode #347</li>
                 <li>Added LeetCode #102</li>
+            </ul>
+        </details>
+        <details>
+            <summary>28/02/2024:</summary>
+            <ul>
+                <li>Added DCLL in Python</li>
+                <li>Added Queue implementation in Python</li>
             </ul>
         </details>
     </ul>
