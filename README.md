@@ -595,5 +595,11 @@ Daily DSA in C (&amp; Python) and LeetCode problems\
                 <li>Added Queue implementation in Python</li>
             </ul>
         </details>
+        <details>
+            <summary>29/02/2024:</summary>
+            <ul>
+                <li>Added AVL Tree Implementation in Python</li>
+            </ul>
+        </details>
     </ul>
 </details>
