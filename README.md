@@ -603,3 +603,19 @@ Daily DSA in C (&amp; Python) and LeetCode problems\
         </details>
     </ul>
 </details>
+<details>
+    <summary>April</summary>
+    <ul>
+        <details>
+            <summary>01/04/2024:</summary>
+            Added,
+            <ul>
+                <li>1137. N-th Tribonacci Number/solution.py</li>
+                <li>118. Pascal's Triangle/solution.py</li>
+                <li>119. Pascal's Triangle II/solution.py</li>
+                <li>70. Climbing Stairs/solution.py</li>
+                <li>714. Best Time to Buy and Sell Stock with Transaction Fee/solution.py</li>
+            </ul>
+        </details>
+    </ul>
+</details>
